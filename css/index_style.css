@@ -1,0 +1,49 @@
+.Bookmarker-content
+{
+    background-color: #EEE;
+}
+
+h1
+{
+    color: #AAA;
+    border-bottom:1px solid #999 ;
+    padding: 3rem;
+}
+
+button
+{
+    background-color: blue;
+
+}
+
+
+.result-content
+{
+    background-color: #EEE;
+    padding: 3rem;
+    text-align: center;
+
+}
+
+
+.result .container
+{
+    border-bottom:1px solid #999 ;
+
+}
+span
+{
+    padding-left: 2rem;
+    font-size: larger;
+    color: #AAA;
+    font-weight: bold;
+}
+.test
+{
+    margin: 10px 0px;
+    padding: 40px 10px;
+    background-image: linear-gradient(#eee,#fff);
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+}
